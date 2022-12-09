@@ -1,6 +1,4 @@
-param (
-    [string[]] $PuzzleInput
-)
+$PuzzleInput = Get-Content -Path $PSScriptRoot\Day01.txt
 
 $Max = 0
 $Running = 0
