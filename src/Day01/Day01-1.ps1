@@ -12,4 +12,6 @@ foreach ($Item in $PuzzleInput) {
     }
 }
 
+if ($Running -gt $Max) {$Max = $Running}
+
 $Max

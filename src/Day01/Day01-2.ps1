@@ -12,4 +12,6 @@ foreach ($Item in $PuzzleInput) {
     }
 }
 
+$Elves += ,$Running
+
 ($Elves | Sort-Object | Select-Object -Last 3 | Measure-Object -Sum).Sum
