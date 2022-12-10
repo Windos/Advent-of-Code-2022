@@ -11,3 +11,4 @@ My Advent of Code 2022 PowerShell Solutions.
 |-----|-----------------------------------------------------------------|------------------------------------------------------------------------|
 | 01  | [Calorie Counting](https://adventofcode.com/2022/day/1)         | [Part 1](src/Day01/Day01-1.ps1) &#124; [Part 2](src/Day01/Day01-2.ps1) |
 | 02  | [Rock Paper Scissors](https://adventofcode.com/2022/day/2)      | [Part 1](src/Day02/Day02-1.ps1) &#124; [Part 2](src/Day02/Day02-2.ps1) |
+| 03  | [Rucksack Reorganization](https://adventofcode.com/2022/day/3)  | [Part 1](src/Day03/Day03-1.ps1) &#124; [Part 2](src/Day03/Day03-2.ps1) |
