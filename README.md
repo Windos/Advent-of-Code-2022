@@ -2,8 +2,8 @@
 
 <!-- Shields stolen from Josh Corr: https://github.com/joshcorr/Advent-of-code-2021 -->
 
-![](https://img.shields.io/badge/day%20📅-09-blue)
-![](https://img.shields.io/badge/stars%20⭐-18-yellow)
+![](https://img.shields.io/badge/day%20📅-10-blue)
+![](https://img.shields.io/badge/stars%20⭐-20-yellow)
 
 My Advent of Code 2022 PowerShell Solutions.
 
@@ -18,3 +18,4 @@ My Advent of Code 2022 PowerShell Solutions.
 | 07  | [No Space Left On Device](https://adventofcode.com/2022/day/7)  | [Part 1](src/Day07/Day07-1.ps1) &#124; [Part 2](src/Day07/Day07-2.ps1) |
 | 08  | [Treetop Tree House](https://adventofcode.com/2022/day/8)       | [Part 1](src/Day08/Day08-1.ps1) &#124; [Part 2](src/Day08/Day08-2.ps1) |
 | 09  | [Rope Bridge](https://adventofcode.com/2022/day/9)              | [Part 1](src/Day09/Day09-1.ps1) &#124; [Part 2](src/Day09/Day09-2.ps1) |
+| 10  | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10)        | [Part 1](src/Day10/Day10-1.ps1) &#124; [Part 2](src/Day10/Day10-2.ps1) |
